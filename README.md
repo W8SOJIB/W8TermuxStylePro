@@ -106,7 +106,19 @@
 
 ## 📦 Installation
 
-### ⚡ Quick Note
+### ⚡ Quick Install
+
+```bash
+# For Termux
+pkg update && pkg upgrade -y
+pkg install python git -y
+git clone https://github.com/W8SOJIB/W8TermuxStylePro
+cd W8TermuxStylePro
+pip install -r requirements.txt  # Optional - no dependencies needed
+python Terminal_Generator.py
+```
+
+### 📝 Quick Note
 
 **No external dependencies required!** W8TermuxStylePro uses only Python standard libraries. Just install Python and you're ready to go!
 
@@ -128,13 +140,23 @@ pkg update && pkg upgrade -y
 pkg install python -y
 ```
 
-#### Step 3: Install Git (Optional - for cloning)
+#### Step 3: Install Dependencies (Optional)
+
+```bash
+# No external dependencies required!
+# But you can check requirements with:
+pip install -r requirements.txt
+```
+
+**Note:** This project uses only Python standard libraries, so no pip packages are needed!
+
+#### Step 4: Install Git (Optional - for cloning)
 
 ```bash
 pkg install git -y
 ```
 
-#### Step 4: Download the Generator
+#### Step 5: Download the Generator
 
 **Option A: Using Git (Recommended)**
 ```bash
@@ -151,13 +173,13 @@ cd W8TermuxStylePro
 # Copy Terminal_Generator.py to this directory
 ```
 
-#### Step 5: Run the Generator
+#### Step 6: Run the Generator
 
 ```bash
 python Terminal_Generator.py
 ```
 
-#### Step 6: Follow the On-Screen Instructions
+#### Step 7: Follow the On-Screen Instructions
 
 1. Select your style (1-100)
 2. Enter your name/handle
@@ -182,7 +204,17 @@ sudo dnf install python3 -y
 sudo pacman -S python
 ```
 
-#### Step 2: Download the Generator
+#### Step 2: Install Dependencies (Optional)
+
+```bash
+# No external dependencies required!
+# But you can check requirements with:
+pip3 install -r requirements.txt
+```
+
+**Note:** This project uses only Python standard libraries, so no pip packages are needed!
+
+#### Step 3: Download the Generator
 
 ```bash
 cd ~
@@ -190,7 +222,7 @@ git clone https://github.com/W8SOJIB/W8TermuxStylePro
 cd W8TermuxStylePro
 ```
 
-#### Step 3: Run the Generator
+#### Step 4: Run the Generator
 
 ```bash
 python3 Terminal_Generator.py

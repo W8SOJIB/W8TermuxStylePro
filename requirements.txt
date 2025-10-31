@@ -1,6 +1,8 @@
+# ============================================================================
 # W8TermuxStylePro - Requirements
 # Version: 3.0
 # GitHub: https://github.com/W8SOJIB/W8TermuxStylePro
+# ============================================================================
 
 # ============================================================================
 # NO EXTERNAL DEPENDENCIES REQUIRED
@@ -12,6 +14,8 @@
 #   - random (for random quote selection)
 #   - time (for sleep/animations)
 #   - shutil (for file operations)
+#
+# Python Version Required: >= 3.6
 #
 # ============================================================================
 # INSTALLATION
