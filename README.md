@@ -1,14 +1,20 @@
-# 🔥 Elite Hacker Terminal Generator - 100 Styles Edition
+# 🔥 W8TermuxStylePro - 100 Styles Edition
 
 <div align="center">
 
 ```
-███████╗██╗     ██╗████████╗███████╗    ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
-██╔════╝██║     ██║╚══██╔══╝██╔════╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
-█████╗  ██║     ██║   ██║   █████╗         ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
-██╔══╝  ██║     ██║   ██║   ██╔══╝         ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
-███████╗███████╗██║   ██║   ███████╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-╚══════╝╚══════╝╚═╝   ╚═╝   ╚══════╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+██╗    ██╗ █████╗ ████████╗███████╗██████╗ ███╗   ███╗██╗   ██╗██╗  ██╗
+██║    ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║   ██║╚██╗██╔╝
+██║ █╗ ██║╚█████╔╝   ██║   █████╗  ██████╔╝██╔████╔██║██║   ██║ ╚███╔╝ 
+██║███╗██║██╔══██╗   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║   ██║ ██╔██╗ 
+╚███╔███╔╝╚█████╔╝   ██║   ███████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
+ ╚══╝╚══╝  ╚════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+███████╗████████╗██╗   ██╗██╗     ███████╗    ██████╗ ██████╗  ██████╗ 
+██╔════╝╚══██╔══╝╚██╗ ██╔╝██║     ██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗
+███████╗   ██║    ╚████╔╝ ██║     █████╗      ██████╔╝██████╔╝██║   ██║
+╚════██║   ██║     ╚██╔╝  ██║     ██╔══╝      ██╔═══╝ ██╔══██╗██║   ██║
+███████║   ██║      ██║   ███████╗███████╗    ██║     ██║  ██║╚██████╔╝
+╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
 **Transform your boring terminal into an elite hacker-style terminal with 100+ unique styles!**
@@ -16,7 +22,8 @@
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![Termux](https://img.shields.io/badge/Platform-Termux-green.svg)](https://termux.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-3.0-red.svg)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-3.0-red.svg)](https://github.com/W8SOJIB/W8TermuxStylePro)
+[![GitHub](https://img.shields.io/badge/GitHub-W8TermuxStylePro-blue.svg)](https://github.com/W8SOJIB/W8TermuxStylePro)
 
 </div>
 
@@ -88,6 +95,14 @@
 
 ## 📦 Installation
 
+### ⚡ Quick Note
+
+**No external dependencies required!** W8TermuxStylePro uses only Python standard libraries. Just install Python and you're ready to go!
+
+For details, see: [`requirements.txt`](requirements.txt)
+
+---
+
 ### For Termux (Android)
 
 #### Step 1: Update Termux Packages
@@ -113,15 +128,15 @@ pkg install git -y
 **Option A: Using Git (Recommended)**
 ```bash
 cd ~
-git clone https://github.com/YOUR_REPO/elite-terminal.git
-cd elite-terminal
+git clone https://github.com/W8SOJIB/W8TermuxStylePro
+cd W8TermuxStylePro
 ```
 
 **Option B: Manual Download**
 ```bash
 cd ~
-mkdir elite-terminal
-cd elite-terminal
+mkdir W8TermuxStylePro
+cd W8TermuxStylePro
 # Copy Terminal_Generator.py to this directory
 ```
 
@@ -160,8 +175,8 @@ sudo pacman -S python
 
 ```bash
 cd ~
-git clone https://github.com/YOUR_REPO/elite-terminal.git
-cd elite-terminal
+git clone https://github.com/W8SOJIB/W8TermuxStylePro
+cd W8TermuxStylePro
 ```
 
 #### Step 3: Run the Generator
@@ -434,7 +449,21 @@ cp welcome.sh welcome_cyberpunk.sh
 
 ---
 
-## 📁 Generated Files
+## 📁 Project Files
+
+### Repository Files:
+
+```
+W8TermuxStylePro/
+├── Terminal_Generator.py   # Main generator script
+├── requirements.txt         # Python dependencies (none needed!)
+├── README.md               # This file
+├── DESCRIPTION.txt         # Detailed project description
+├── INSTALL.txt             # Installation guide for Termux
+└── STYLES_CATALOG.txt      # Complete styles catalog
+```
+
+### Generated Files:
 
 After running the generator, these files are created:
 
@@ -456,7 +485,7 @@ To update to a newer version:
 
 ```bash
 # Pull latest changes (if using git)
-cd ~/elite-terminal
+cd ~/W8TermuxStylePro
 git pull
 
 # Or download new Terminal_Generator.py manually
@@ -508,9 +537,11 @@ This tool is for **educational and customization purposes only**. The "hacker" t
 
 If you find this useful, please give it a ⭐ star!
 
+🔗 **Repository:** [https://github.com/W8SOJIB/W8TermuxStylePro](https://github.com/W8SOJIB/W8TermuxStylePro)
+
 ```bash
 # Share with friends
-echo "Check out Elite Hacker Terminal!"
+echo "Check out W8TermuxStylePro!"
 ```
 
 ---

@@ -1,0 +1,72 @@
+# W8TermuxStylePro - Requirements
+# Version: 3.0
+# GitHub: https://github.com/W8SOJIB/W8TermuxStylePro
+
+# ============================================================================
+# NO EXTERNAL DEPENDENCIES REQUIRED
+# ============================================================================
+#
+# This project uses only Python standard library modules:
+#   - os (for file operations and system calls)
+#   - sys (for system-specific parameters)
+#   - random (for random quote selection)
+#   - time (for sleep/animations)
+#   - shutil (for file operations)
+#
+# ============================================================================
+# INSTALLATION
+# ============================================================================
+#
+# Python 3.6 or higher is required
+#
+# Install Python on Termux:
+#   pkg install python -y
+#
+# Install Python on Linux:
+#   sudo apt install python3 -y  (Debian/Ubuntu)
+#   sudo dnf install python3 -y  (Fedora)
+#   sudo pacman -S python         (Arch)
+#
+# ============================================================================
+# USAGE
+# ============================================================================
+#
+# Simply run the generator script:
+#   python Terminal_Generator.py
+#
+# Or on Linux:
+#   python3 Terminal_Generator.py
+#
+# ============================================================================
+# OPTIONAL DEPENDENCIES (Not required, but useful)
+# ============================================================================
+#
+# For development or contribution:
+# - git (for cloning and version control)
+#
+# Install git on Termux:
+#   pkg install git -y
+#
+# Install git on Linux:
+#   sudo apt install git -y
+#
+# ============================================================================
+# NOTES
+# ============================================================================
+#
+# - This script is self-contained and portable
+# - No pip packages need to be installed
+# - Works on Python 3.6+
+# - Tested on Termux, Ubuntu, Debian, Fedora, Arch Linux
+# - Compatible with bash shell environments
+#
+# ============================================================================
+# CREDITS
+# ============================================================================
+#
+# Created by: W8Team/W8SOJIB
+# Repository: https://github.com/W8SOJIB/W8TermuxStylePro
+# License: MIT
+#
+# ============================================================================
+
