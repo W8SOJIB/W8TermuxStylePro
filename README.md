@@ -25,6 +25,17 @@
 [![Version](https://img.shields.io/badge/Version-3.0-red.svg)](https://github.com/W8SOJIB/W8TermuxStylePro)
 [![GitHub](https://img.shields.io/badge/GitHub-W8TermuxStylePro-blue.svg)](https://github.com/W8SOJIB/W8TermuxStylePro)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=W8SOJIB%2FW8TermuxStylePro&label=Visitors&countColor=%23263759&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/W8SOJIB/W8TermuxStylePro?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/W8SOJIB/W8TermuxStylePro?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/W8SOJIB/W8TermuxStylePro?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/W8SOJIB/W8TermuxStylePro)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/W8SOJIB/W8TermuxStylePro)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/W8SOJIB/W8TermuxStylePro)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/W8SOJIB/W8TermuxStylePro)
+![GitHub Language Count](https://img.shields.io/github/languages/count/W8SOJIB/W8TermuxStylePro)
+![GitHub Top Language](https://img.shields.io/github/languages/top/W8SOJIB/W8TermuxStylePro)
+
 </div>
 
 ---
