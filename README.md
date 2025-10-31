@@ -115,7 +115,7 @@ pkg install python git -y
 git clone https://github.com/W8SOJIB/W8TermuxStylePro
 cd W8TermuxStylePro
 pip install -r requirements.txt  # Optional - no dependencies needed
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 ### 📝 Quick Note
@@ -176,7 +176,7 @@ cd W8TermuxStylePro
 #### Step 6: Run the Generator
 
 ```bash
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 #### Step 7: Follow the On-Screen Instructions
@@ -235,7 +235,7 @@ python3 Terminal_Generator.py
 ### Quick Start
 
 ```bash
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 ### Step-by-Step Process
@@ -358,7 +358,7 @@ If you want to remove the custom terminal and restore default:
 #### Method 1: Using the Generator
 
 ```bash
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 # Select option [101] Remove
 ```
 
@@ -441,14 +441,14 @@ ls -la ~/.bashrc
 touch ~/.bashrc
 
 # Re-run the generator
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 ### Issue: Want to Regenerate with Different Style
 
 ```bash
 # Option 1: Run generator again (it will auto-fix)
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 
 # Option 2: Remove first, then generate
 # Select [101] Remove, then run again
@@ -534,11 +534,11 @@ git pull
 # Or download new Terminal_Generator.py manually
 
 # Remove old installation
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 # Select [101] Remove
 
 # Generate with new version
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 ---
@@ -633,7 +633,7 @@ If you love this project and want to support development:
 **Transform Your Terminal Today!**
 
 ```bash
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 ```
 
 ---

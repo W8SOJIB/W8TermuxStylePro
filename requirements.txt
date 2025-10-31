@@ -36,7 +36,7 @@
 # ============================================================================
 #
 # Simply run the generator script:
-#   python Terminal_Generator.py
+#   python W8TermuxStylePro.py
 #
 # Or on Linux:
 #   python3 Terminal_Generator.py

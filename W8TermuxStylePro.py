@@ -914,7 +914,7 @@ Or run directly:
 To remove the terminal and auto-startup:
 
 ```bash
-python Terminal_Generator.py
+python W8TermuxStylePro.py
 # Choose option [3] Remove Stylish Terminal
 ```
 
@@ -1041,7 +1041,7 @@ def main():
   Or close and reopen terminal
 
 {Colors.YELLOW}To remove and restore normal prompt:{Colors.RESET}
-  {Colors.WHITE}python Terminal_Generator.py{Colors.RESET}
+  {Colors.WHITE}python W8TermuxStylePro.py{Colors.RESET}
   Then choose option [3] Remove Stylish Terminal
 """)
     
